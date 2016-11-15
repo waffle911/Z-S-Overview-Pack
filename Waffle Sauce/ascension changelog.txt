@@ -1,0 +1,154 @@
+﻿• Added new Ascension entities to appropriate PvE presets.
+     - All Zenith Hidden (Faction) (Ship) added to Brackets to replicate default overview functionality during the Tutorial.
+     - Tutorial Seekers and Zenith Hidden (Faction) Capitals added to appropriate presets to replicate default functionality during Tutorial.
+• Added Superweapon and Effect beacons to all presets I could think of that one might be using when SUDDENLY TITAN.
+• Added Mission (Faction) (Ship) entities to PvE presets that didn't have them because seriously why didn't they have them, they're PvE presets.
+     - Dagan and his escorts should now show up in PvE presets. I hope.
+• Corrected a typo that prevented the PvP CovOps Collidable preset from loading when applying individual packs via in-game links.
+• Added Industrial Complexes to presets that also show Citadels.
+• Added the ability to turn on ship names in ship brackets without breaking them. Ship names remain turned off by default because they serve no tactical purpose, but at least when they're turned on now they look nice and add flavor.
+
+Celestial: Effect Beacon added to:
+- Brackets:
+	- Combat/Targets/Friendly (±Dro)
+	- Travel
+- Travel:
+	- (all presets)
+- PvP:
+	- Basic (±Neut ±NPC)
+	- CovOps: Collidables
+	- NPSI
+	- Wartargets
+- Friendly:
+	- All (±Dro)
+	- Fleet
+Celestial: Super Weapon Beacon added to:
+- Brackets:
+	- Combat/Targets/Friendly (±Dro)
+	- Travel
+- Travel:
+	- (all presets)
+- PvP:
+	- Basic (±Neut ±NPC)
+	- Ships Only
+	- CovOps: Collidables
+	- NPSI
+	- Wartargets
+- Friendly:
+	- All (±Dro)
+	- Fleet
+Charge: Structure Guided Bomb added to:
+- Brackets:
+	- Combat/Targets/Friendly (±Dro)
+	- Travel
+- Travel:
+	- (all presets)
+- PvE:
+	- (all presets)
+- PvP:
+	- Basic (±Neut ±NPC)
+	- Ships Only
+	- Deployables
+	- NPSI
+	- Wartargets
+- Friendly:
+	- (all presets)
+Structure: Engineering Complex added to:
+- Brackets: 
+	- Combat/Targets/Friendly (±Dro)
+	- Travel
+- Travel: 
+	- All
+	- (-Ship +Sta)
+- PvE: (all presets)
+- PvP:
+	- Basic (±Neut ±NPC)
+	- Structures
+	- Exploring
+	- PI
+- Friendly:
+	- All (±Dro)
+- D-Scan:
+	- Hunter
+	- Ships
+Entity: Mission (Faction) (Ship) added to:
+- Brackets: Combat/Targets/Friendly (±Dro)
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Incurision
+	- Ratting
+Entity: Tutorial Seekers added to:
+- Backets:
+	- Combat/Targets/Friendly (±Dro)
+	- Misc
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Ratting
+	- Salvage/Loot
+Entity: Hidden Zenith (Faction) (Ship) added to:
+- Brackets: Combat/Targets/Friendly (±Dro)
+Entity: ♦ Mining (Ship) added to:
+- Backets:
+	- Combat/Targets/Friendly (±Dro)
+	- Misc
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Mining
+	- Ratting
+- PvP:
+	- Basic (±Neut +NPC)
+	- CovOps Collidables
+Entity: ♦ Frigate added to:
+- Backets:
+	- Combat/Targets/Friendly (±Dro)
+	- Misc
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Mining
+	- Ratting
+	- Salvage/Loot
+- PvP:
+	- Basic (±Neut +NPC)
+	- CovOps Collidables
+	- FW
+Entity: ♦ Cruiser/Battleship added to:
+- Backets:
+	- Combat/Targets/Friendly (±Dro)
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Mining
+	- Ratting
+	- Salvage/Loot
+- PvP:
+	- Basic (±Neut +NPC)
+	- CovOps Collidables
+	- FW
+
+***TO DO***
+The following need to be added:
+Celestial: Effect Beacon and Super Weapon Beacon
+- Brackets: Misc
+Charge: Structure Guided Bomb
+- PvP: CovOps Collidables
+Structure: Engineering COmplex
+- Brackets:
+	- Misc
+	- Warpout (!)
+- PvP: FW
+- D-Scan: All
+Entity: Tutorial Seekers
+- PvP: Basic (±Neut +NPC)
+Entity: Hidden Zenith (Faction) Capital
+- PvE:
+	- Basic (±Dro)
+	- Anoms
+	- Ratting
+	- Salvage/Loot
+- PvP: Basic (±Neut +NPC)
+Entity: ♦ Cruiser/Battleship
+- Brackets: Misc
